@@ -23,4 +23,3 @@ I decided to spin up a free tier instance on AWS EC2 and then installed Wordpres
 
 ## How to collaborate?
 If anyone feels interested about this project and wants to collaborate, just let me know. I would be excited to work as a team.
-
