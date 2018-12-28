@@ -1,4 +1,4 @@
-# python_automation_framework
+# python-automation-framework
 
 ## The main purpose:
 This is a placeholder repo for an automation framework that I'm building in Python language. The idea is to write a great number of feature tests using Gherking language based on a sample app (described in a section below) and then use some of the most popular languages like Java, Python, Ruby and maybe even C# to create separate automation frameworks for the each feature tests. 
